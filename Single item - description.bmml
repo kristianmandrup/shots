@@ -112,7 +112,7 @@
     </control>
     <control controlID="55" controlTypeID="com.balsamiq.mockups::Canvas" x="90" y="469" w="796" h="101" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>472931</color>
+        <color>16777215</color>
       </controlProperties>
     </control>
     <control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="90" y="469" w="796" h="44" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
@@ -120,7 +120,7 @@
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="297" y="481" w="363" h="21" measuredW="397" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="99" y="482" w="363" h="21" measuredW="397" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -128,36 +128,26 @@
         <text>A%20beautiful%20luxury%20pent%20house%20with%20a%20view%20of%20the%20sea%20%3A%29</text>
       </controlProperties>
     </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::StickyNote" x="687" y="469" w="176" h="82" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::StickyNote" x="919" y="451" w="176" h="82" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>General%20description%20%28always%20visible%29</text>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Canvas" x="109" y="227" w="758" h="32" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>3355443</color>
-      </controlProperties>
-    </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Canvas" x="109" y="248" w="758" h="206" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16777215</color>
-      </controlProperties>
-    </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="116" y="229" w="57" h="21" measuredW="47" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="116" y="249" w="57" h="21" measuredW="47" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
-        <color>16750848</color>
+        <color>0</color>
         <size>16</size>
         <text>Place</text>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="96" y="515" w="-1" h="-1" measuredW="575" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="96" y="515" w="-1" h="-1" measuredW="575" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>16777215</color>
+        <color>0</color>
         <text>Old%20apartment%20from%20the%20mid%201800s%20with%20beautiful%20windows%20and%20a%20large%20balcony%20with%20a%20view%20of%20the%20sea.</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="299" y="229" w="88" h="21" measuredW="78" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="299" y="249" w="88" h="21" measuredW="78" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10066329</color>
@@ -165,13 +155,7 @@
         <text>Transport</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="115" y="255" w="-1" h="-1" measuredW="572" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>0</color>
-        <text>This%20apartment%20is%20located%20at%20the%20tip%20of%20the%20famous%20Island%20of%20Crete%2C%20famous%20for%20diving%20and%20relaxation...</text>
-      </controlProperties>
-    </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="381" y="229" w="101" h="21" measuredW="95" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="381" y="249" w="101" h="21" measuredW="95" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10066329</color>
@@ -179,7 +163,7 @@
         <text>Recreational</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="172" y="229" w="56" h="21" measuredW="49" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="172" y="249" w="56" h="21" measuredW="49" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10066329</color>
@@ -187,15 +171,15 @@
         <text>Inside</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="234" y="229" w="65" h="21" measuredW="62" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="234" y="249" w="65" h="21" measuredW="62" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
-        <color>10066329</color>
+        <color>0</color>
         <size>16</size>
         <text>Outside</text>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="482" y="229" w="78" h="21" measuredW="68" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="482" y="249" w="78" h="21" measuredW="68" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10066329</color>
@@ -203,36 +187,85 @@
         <text>Close%20by</text>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::StickyNote" x="613" y="272" w="235" h="158" measuredW="109" measuredH="123" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::StickyNote" x="642" y="335" w="235" h="158" measuredW="109" measuredH="123" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Description%20category%20tabs%20makes%20it%20easier%20for%20tenant%20to%20remember%20what%20to%20fill%20in%20and%20provide%20full%20description.%20Tabs%20only%20%22active%22%20if%20they%20have%20content.%20</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::StickyNote" x="196" y="284" w="196" h="123" measuredW="109" measuredH="123" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::StickyNote" x="627" y="172" w="196" h="79" measuredW="109" measuredH="123" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>We%20could%20allow%20adding%20custom%20category%20tags%20%28up%20to%202%29</text>
+        <text>Allow%202%20custom%20categories</text>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="457" y="74" w="202" h="21" measuredW="104" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="457" y="74" w="202" h="21" measuredW="104" measuredH="28" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Description</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Canvas" x="92" y="200" w="795" h="23" measuredW="100" measuredH="70" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Canvas" x="92" y="200" w="795" h="43" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="201" w="157" h="23" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="107" y="207" w="127" h="21" measuredW="107" measuredH="28" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13421772</color>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>20</size>
+        <text>Description</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="454" y="202" w="124" h="21" measuredW="76" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="279" w="758" h="32" measuredW="100" measuredH="70" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="130" y="281" w="57" h="21" measuredW="47" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Place</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="113" y="311" w="-1" h="-1" measuredW="569" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
-        <text>Descriptions</text>
+        <text>The%20apartment%20is%20located%20at%20the%20tip%20of%20the%20famous%20Island%20of%20Crete%2C%20famous%20for%20diving%20and%20relaxation...</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Icon" x="112" y="285" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <icon>RightTriangleIcon%7Cxsmall</icon>
+        <rotation>270</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="339" w="758" h="32" measuredW="100" measuredH="70" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="130" y="341" w="82" h="21" measuredW="62" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Outside</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Label" x="113" y="371" w="-1" h="-1" measuredW="338" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Comes%20with%20a%20garden%2C%20terrasee%20with%20BBQ%20and%20a%20nice%20spa%20%3A%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Icon" x="112" y="345" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <icon>RightTriangleIcon%7Cxsmall</icon>
+        <rotation>270</rotation>
       </controlProperties>
     </control>
   </controls>
