@@ -268,7 +268,7 @@
         <icon>GeoLocationIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="262" y="205" w="89" h="21" measuredW="82" measuredH="28" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="602" y="207" w="89" h="21" measuredW="82" measuredH="28" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>

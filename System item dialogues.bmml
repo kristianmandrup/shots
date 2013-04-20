@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1308" measuredH="567" mockupW="1180" mockupH="553">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1285" measuredH="567" mockupW="1226" mockupH="553">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="153" y="57" w="930" h="90" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -135,98 +135,221 @@
         <icon>Number5Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="156" w="927" h="44" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="190" w="754" h="44" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="153" y="168" w="852" h="21" measuredW="2385" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="143" y="190" w="660" h="44" measuredW="2385" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.%20Aenean%20ut%20mi%20ante%2C%20a%20vestibulum%20massa.%20Vestibulum%20sit%20amet%20enim%20faucibus%20felis%20semper%20elementum.%20Nullam%20elementum%20erat%20ut%20tellus%20tempor%20laoreet.%20Fusce%20placerat%20semper%20fermentum.</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="1002" y="168" w="21" h="21" measuredW="21" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="776" y="207" w="17" h="21" measuredW="21" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>.....</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="210" w="927" h="44" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Canvas" x="141" y="244" w="753" h="61" measuredW="100" measuredH="70" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
+        <borderColor>13576743</borderColor>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="153" y="222" w="852" h="21" measuredW="2385" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="144" y="248" w="693" h="21" measuredW="2385" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>0</color>
         <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.%20Aenean%20ut%20mi%20ante%2C%20a%20vestibulum%20massa.%20Vestibulum%20sit%20amet%20enim%20faucibus%20felis%20semper%20elementum.%20Nullam%20elementum%20erat%20ut%20tellus%20tempor%20laoreet.%20Fusce%20placerat%20semper%20fermentum.</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="1002" y="222" w="21" h="21" measuredW="21" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>.....</text>
-      </controlProperties>
-    </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="258" w="927" h="81" measuredW="100" measuredH="70" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="315" w="754" h="58" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>472931</borderColor>
         <color>15658734</color>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="153" y="270" w="852" h="63" measuredW="2385" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="150" y="322" w="693" h="45" measuredW="1336" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="382" w="754" h="44" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>40463</borderColor>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="147" y="388" w="643" h="21" measuredW="2385" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.%20Aenean%20ut%20mi%20ante%2C%20a%20vestibulum%20massa.%20Vestibulum%20sit%20amet%20enim%20faucibus%20felis%20semper%20elementum.%20Nullam%20elementum%20erat%20ut%20tellus%20tempor%20laoreet.%20Fusce%20placerat%20semper%20fermentum.</text>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="348" w="927" h="44" measuredW="100" measuredH="70" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="436" w="754" h="44" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="153" y="360" w="852" h="21" measuredW="2385" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="146" y="444" w="643" h="21" measuredW="2385" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.%20Aenean%20ut%20mi%20ante%2C%20a%20vestibulum%20massa.%20Vestibulum%20sit%20amet%20enim%20faucibus%20felis%20semper%20elementum.%20Nullam%20elementum%20erat%20ut%20tellus%20tempor%20laoreet.%20Fusce%20placerat%20semper%20fermentum.</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="1002" y="360" w="21" h="21" measuredW="21" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::StickyNote" x="59" y="263" w="109" h="83" measuredW="109" measuredH="123" zOrder="61" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>.....</text>
+        <text>Error%20message</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="139" y="402" w="927" h="44" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::StickyNote" x="1066" y="172" w="219" h="91" measuredW="109" measuredH="123" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mouse-over%20provides%20brief%20detail.%0AIncludes%20link%20to%20map%20view%20of%20property.</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Canvas" x="924" y="141" w="157" h="382" measuredW="100" measuredH="70" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="153" y="414" w="852" h="21" measuredW="2385" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Canvas" x="950" y="197" w="104" h="100" measuredW="100" measuredH="70" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20vitae%20ante%20sed%20justo%20imperdiet%20vehicula%20vitae%20sit%20amet%20ligula.%20Praesent%20dapibus%20tellus%20non%20urna%20lacinia%20porta.%20Sed%20interdum%20massa%20sed%20sapien%20viverra%20porta.%20Suspendisse%20potenti.%20Aenean%20ut%20mi%20ante%2C%20a%20vestibulum%20massa.%20Vestibulum%20sit%20amet%20enim%20faucibus%20felis%20semper%20elementum.%20Nullam%20elementum%20erat%20ut%20tellus%20tempor%20laoreet.%20Fusce%20placerat%20semper%20fermentum.</text>
+        <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="1002" y="414" w="21" h="21" measuredW="21" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Image" x="952" y="199" w="100" h="79" measuredW="500" measuredH="500" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>.....</text>
-      </controlProperties>
-    </control>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::Image" x="960" y="68" w="84" h="63" measuredW="336" measuredH="500" zOrder="40" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/apartment1.jpg</src>
+        <src>./assets/apartment2.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::Icon" x="1027" y="62" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="952" y="277" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>%24%203000</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Canvas" x="924" y="141" w="157" h="43" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="944" y="154" w="124" h="21" measuredW="127" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Selected%20Properties%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Canvas" x="128" y="141" w="795" h="43" measuredW="100" measuredH="70" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="426" y="150" w="220" h="21" measuredW="168" measuredH="28" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>20</size>
+        <text>System%20messages</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="908" y="188" w="-1" h="328" measuredW="16" measuredH="100" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::StickyNote" x="893" y="409" w="138" h="99" measuredW="109" measuredH="123" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approval/Success%20%0Amessage</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::StickyNote" x="411" y="337" w="138" h="99" measuredW="109" measuredH="123" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Selected%20message</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="812" y="284" w="71" h="21" measuredW="69" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>3%20days%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Canvas" x="806" y="284" w="88" h="20" measuredW="100" measuredH="70" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Canvas" x="806" y="352" w="88" h="20" measuredW="100" measuredH="70" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Label" x="812" y="352" w="71" h="21" measuredW="70" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>2%20days%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Canvas" x="806" y="213" w="88" h="20" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Label" x="812" y="213" w="71" h="21" measuredW="69" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>3%20days%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::ComboBox" x="830" y="151" w="-1" h="-1" measuredW="65" measuredH="23" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>latest</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::StickyNote" x="823" y="35" w="208" h="94" measuredW="109" measuredH="123" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sort%20by%3A%0A-%20type%20%28green%20first%29%0A-%20date%20%28oldest%20first%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Canvas" x="806" y="405" w="88" h="20" measuredW="100" measuredH="70" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="812" y="405" w="71" h="21" measuredW="62" measuredH="21" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>1%20day%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Canvas" x="806" y="459" w="88" h="20" measuredW="100" measuredH="70" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="812" y="459" w="71" h="21" measuredW="73" measuredH="21" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>9%20hours%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Icon" x="1029" y="275" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <color>13576743</color>
-        <icon>XIcon%7Csmall</icon>
+        <color>13421772</color>
+        <icon>GeoLocationIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::StickyNote" x="1058" y="14" w="109" h="83" measuredW="109" measuredH="123" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Tooltip" x="883" y="134" w="174" h="71" measuredW="160" measuredH="51" zOrder="63" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Click%20%28x%29%20to%20remove</text>
+        <align>left</align>
+        <text>A%20room%20with%20a%20view%0A12m2%2C%20from%20Aug%206th</text>
+        <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="93" controlTypeID="com.balsamiq.mockups::StickyNote" x="1089" y="97" w="219" h="148" measuredW="109" measuredH="123" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Tooltip" x="919" y="297" w="130" h="55" measuredW="142" measuredH="0" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Click%20on%20property%20to%20see%20detail%20view%21%0A%20%0AMouse-over%20provides%20brief%20detail.%0AIncludes%20link%20to%20map%20view%20of%20property.</text>
+        <align>left</align>
+        <text>Maglekildevej%2018%20Frederiksberg</text>
+        <tooltipDirection>NE</tooltipDirection>
       </controlProperties>
     </control>
   </controls>

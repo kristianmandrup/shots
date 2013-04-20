@@ -170,10 +170,10 @@
         <tooltipDirection>SW</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="457" y="74" w="131" h="21" measuredW="118" measuredH="28" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="435" y="74" w="343" h="21" measuredW="319" measuredH="28" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>Edit%20Location</text>
+        <text>Edit%20Location%20-%20%25%20Places%20of%20Interest</text>
       </controlProperties>
     </control>
     <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="200" w="772" h="46" measuredW="100" measuredH="70" zOrder="32" locked="false" isInGroup="-1">
@@ -203,7 +203,7 @@
         <text>As%20you%20type%2C%20Google%20geocoding%20will%20try%20to%20find%20it.%20%0AOr%20you%20can%20move%20the%20pin%2C%20and%20it%20will%20do%20reverse%20geocoding%20%0Aand%20fill%20out%20the%20address%20field.</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="124" y="207" w="127" h="21" measuredW="82" measuredH="28" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="600" y="207" w="127" h="21" measuredW="82" measuredH="28" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
